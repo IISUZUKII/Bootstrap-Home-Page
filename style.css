@@ -73,10 +73,6 @@ body {
   margin: 6% 0 22% 0;
 }
 
-.card {
-  width: 20rem;
-}
-
 .section-1 .heading-1 {
   margin-top: 8%;
   font-weight: bold;
@@ -239,7 +235,7 @@ body {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 375px) {
   .site-title {
     text-align: center;
     font-size: 40px;
